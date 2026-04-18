@@ -9,3 +9,9 @@ I want to preface that I am, on all accounts, a novice when it comes to understa
 
 ## Purpose
 This project is to provide a bit more accessiblility for those interested in and/or committed to paleontology, as it should hopefully help users learn about what I consider to be underrepresented theropod dinosaurs! Virtually everyone knows about *T.rex* and *Spinosaurus*, but not many know about *Acrocanthosaurus* (an early large theropod dinosaur) or *Megalosaurus* (the first dinosaur ever described), and I want to showcase these dinosaurs in a way that suits my final project's requirements.
+
+## Dataset Citations:
+[1] Soto, Matias (2019), “Large theropod teeth database”, Mendeley Data, V1, doi: 10.17632/4m87jpntrd.1
+Link: https://data.mendeley.com/datasets/4m87jpntrd/1
+[2] Janjua, Kamran (2021), "jurassic-park"
+Link: https://github.com/kjanjua26/jurassic-park
