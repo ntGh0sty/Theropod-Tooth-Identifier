@@ -13,5 +13,6 @@ This project is to provide a bit more accessiblility for those interested in and
 ## Dataset Citations:
 [1] Soto, Matias (2019), “Large theropod teeth database”, Mendeley Data, V1, doi: 10.17632/4m87jpntrd.1
 Link: https://data.mendeley.com/datasets/4m87jpntrd/1
+
 [2] Janjua, Kamran (2021), "jurassic-park"
 Link: https://github.com/kjanjua26/jurassic-park
